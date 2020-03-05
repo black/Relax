@@ -1,3 +1,3 @@
-# MachineLearning
+## Relax
+### An open source local, relaxing app with NOISE, not music.
 
-## This repo is for creating replica of machine learning architecture on in local offline environment. 
