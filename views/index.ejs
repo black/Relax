@@ -15,7 +15,7 @@
     <div id="app">
         <ul>
             <li v-for="item in list">
-                <player-component v-bind:imgsrc="item.imgsrc" v-bind:audisrc="item.audio"></player-component>
+                <player-component v-bind:name="item"></player-component>
             </li>
         </ul>
     </div>
