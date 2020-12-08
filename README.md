@@ -1,6 +1,6 @@
 # R E L A X 
 
-### chil out with noise 
+### chill out with noise 
 
 ## PREVIEW 
 
