@@ -5,7 +5,7 @@
 ## PREVIEW 
 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/black/Relax/blob/master/preview.png)
 
 
 
