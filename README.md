@@ -1,36 +1,19 @@
 # R E L A X 
 
-### chill out with noise 
+"Just Relax with Some NOISE, Not Music" is an app designed to help you unwind using calming ambient noise, rather than music. It offers a variety of noise options like white noise, nature sounds, and other soothing audio to create a peaceful environment. Whether you need to focus, meditate, or simply relax, this app provides the perfect auditory backdrop to help you de-stress and find tranquility.
 
 ## PREVIEW 
 
-
 ![alt text](https://github.com/black/Relax/blob/master/preview.png)
 
+### Instructions
 
-
-
-
-
-## Project setup
+1. Install dependencies
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+2. Start the app
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
